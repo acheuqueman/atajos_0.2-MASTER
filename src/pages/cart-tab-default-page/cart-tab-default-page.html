@@ -1,0 +1,17 @@
+<ion-header>
+  <ion-navbar color="primary">
+    <ion-title>
+      Favoritos
+    </ion-title>
+  </ion-navbar>
+</ion-header>
+<ion-content padding id="page3">
+  <!-- <ion-spinner class="espiner" id="espiner5"></ion-spinner> -->
+  <ion-list>
+    <button ion-item *ngFor="let item of contactos" (click)="ver_detalles(item)">
+      {{item.nombre}}
+    </button>  
+  </ion-list>
+</ion-content>
+
+<!-- hideBackButton en navbar para quitar flecha-->

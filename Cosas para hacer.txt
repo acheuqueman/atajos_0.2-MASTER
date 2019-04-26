@@ -1,0 +1,22 @@
+csmanfuert@gmail.com
+
+//- Logo cargando mientras cargan los contactos
+//- cantidad de numeros en cada categoria ("Educacion(6)" o "Seguridad(0)")
+
+en rio gallegos:
+1ro Entes Provinciales 
+2do Entes autarquicos
+3ro Municipales // Primero en cada localidad
+ultimo Nacion //En cada localidad
+
+//- Achichar las fuentes de los titulos y dir
+//- Poner boton o etiqueta la pagina web
+//- Confirmacion en boton de llamar
+- mostrar gobierno, municipio, nacion
+//- Favoritos se guarden localmente
+    - Que se pueda eliminar si se toca boton y ya esta en favoritos
+    //- Agregar tabla numeros (Necesita tenes id del contacto)
+    //- Pedir id del contacto desde la base, para evitar agregar mismo contacto a favoritos,
+
+Bugs:
+    - A veces, despues de ver detalles, volver hacia atras, no deja seleccionar contactos por un tiempo
